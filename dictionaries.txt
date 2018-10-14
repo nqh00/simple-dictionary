@@ -1,0 +1,54 @@
+TỪ	ĐIỂN
+hello	xin chào
+add	thêm
+hi	gọi chào, xưng hô thân mật lúc gặp gỡ
+column	cột
+very	thực sự
+addition	phép cộng
+zero	số không
+admissible	có thể chấp nhận
+the	cái, con, người
+men	đàn ông, nam nhi
+human	con người
+boy	con trai
+girl	con gái
+she	cô ấy, chị ấy
+my	của tôi
+i	tôi, tao
+central	trung tâm
+bank	ngân hàng
+big	to lớn
+drink	uống
+vietnamese	người Việt Nam, tiếng Việt, mọi thứ thuộc về người Việt, Trường Sa, Hoàng Sa
+eat	ăn
+run	chạy, vận hành
+beautician	người chủ mĩ viện
+small	nhỏ, bé, chật
+dog	con chó
+cat	con mèo
+monkey	con khỉ
+disable	vô hiệu hóa
+enable	cho phép, sử dụng
+refresh	làm mới
+reset	đặt lại, thiết lập lại
+graphic	đồ thị đồ họa
+matrix	ma trận, lướt
+modern	hiện đại
+relation	mối quan hệ, mối tương quan
+alignment	sự sắp thẳng hàng, sự sắp hàng
+alternation	sự xoay chiều
+amalgamated	đã pha trộn
+among	giữa, ở giữa
+amount	số lượng
+ample	rộng, lụng thụng
+electronic	điện tử, thuộc về điện tử
+amplify	mở rộng, cộng hưởng
+physical	vật chất, thuộc về vật chất
+pneumatic	khí, hơi
+analysable	có thể phân tích
+circuit	chu vi, đường vòng quanh, vi mạch
+curve	đường cong, đường vòng, chỗ quanh co
+differential	khác nhau, phân biệt, chênh lệch
+motion	sự vận động, sự chuyển đông, sự di động
+atomic	nguyên tử
+sound    âm thanh, tiếng động
